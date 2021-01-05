@@ -1,2 +1,2 @@
 # Bachelor Proef
-Repository for 3Devine Bachelor Proef
+Repository for 3 Devine Bachelor Proef
