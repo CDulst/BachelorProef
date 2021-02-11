@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kinect",
+    "\\Kinect\\KinectView",
+    "\\Kinect\\KinectView\\Scripts",
+    "\\Scripts",
+    "\\Scripts\\KinectMovementBehaviour"
+  ],
+  "SelectedNode": "\\Kinect\\KinectView\\Scripts\\BodySourceView.cs",
+  "PreviewInSolutionExplorer": false
+}

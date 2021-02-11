@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2DA5B318-E0E5-B873-96AE-F0DA2C60E629}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PopUp/PopUp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PopUp/PopUp.cs" Line="27" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp-Editor-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Prefab" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="PopUp" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="355274f8-1aef-437a-a49a-997a0756db7e" />
+</Properties>

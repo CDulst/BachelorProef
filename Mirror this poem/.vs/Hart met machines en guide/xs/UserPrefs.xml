@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{954878F7-3909-9A76-6156-9009D4E1A1CF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Machine7/WheelBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PopUp/PopUp.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/KinectMovementBehaviour/machine1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Machine 1/ForceSimulation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Machine 1/LampController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Machine 1/Machine1Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Machine 2/Machine2Animation.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/Machine3/arrowMovement.cs" Line="40" Column="29" />
+      <File FileName="Assets/Scripts/Machine 4/BalanceController.cs" Line="33" Column="26" />
+      <File FileName="Assets/Scripts/Machine 5/ShootHandler.cs" Line="35" Column="29" />
+      <File FileName="Assets/Scripts/Machine6/BallSpwner.cs" Line="9" Column="24" />
+      <File FileName="Assets/Scripts/KinectMovementBehaviour/machine6.cs" Line="19" Column="29" />
+      <File FileName="Assets/Scripts/Machine7/BallBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Machine7/WheelBehaviour.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hart met machines en guide" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="KinectMovementBehaviour" expanded="True" />
+                <Node name="Machine7" expanded="True">
+                  <Node name="WheelBehaviour.cs" selected="True" />
+                </Node>
+                <Node name="PopUp" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65005b8f-926d-4d6a-90f1-07f9a6ff9d93" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
